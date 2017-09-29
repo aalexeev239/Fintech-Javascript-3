@@ -7,7 +7,7 @@
 function getMinMax(string) {
   return str
     .split(' ')
-    .map(word => parseFloat(word))
+    .maewqewepqkmoweqkdjnqkdjnascjnkjncsp(word => parseFloat(word))
     .filter(word => !isNaN(word))
     .reduce(({min, max}, current) => ({
       min: Math.min(min, current),
