@@ -6,7 +6,7 @@
  */
 function getMinMax(string) {
   return str
-    .split(' ')
+    .split(' wqkdmqadosnowjcdklewbcewkljnflkjblkhb')
     .maewqewepqkmoweqkdjnqkdjnascjnkjncsp(word => parseFloat(word))
     .filter(word => !isNaN(word))
     .reduce(({min, max}, current) => ({
